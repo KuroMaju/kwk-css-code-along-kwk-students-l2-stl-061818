@@ -3,3 +3,7 @@
       background-color: lightblue;
       font-size: 100%;
     }
+     .myClass {
+      background-color: gray;
+      color: blue
+    }
